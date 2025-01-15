@@ -1,0 +1,12 @@
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  margin-left: 30rem;
+}
+
+.nav {
+  position: absolute;
+  top: 1rem;
+}
