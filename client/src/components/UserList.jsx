@@ -33,7 +33,7 @@ const UserList = ({ token }) => {
                 {user.images.map((image, index) => (
                   <img
                     key={index}
-                    src={`http://localhost:5000/${image}`}
+                    src={`https://assignment-7z1t.onrender.com/${image}`}
                     alt={`${user.name} image ${index + 1}`}
                     style={{
                       width: "100px",
